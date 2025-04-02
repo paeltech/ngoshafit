@@ -286,7 +286,335 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, Bali Utakuwa Huru na 
             <p className="text-center"><strong><i>
             …Pamoja na FAIDA Zingine Kibao!</i></strong></p>
           </Card>
+          <div className="text-xl/9 text-center mt-12 mb-10">
+            <p>Sio Hivyo Tu</p>
+            <p><strong><i>…Kama utakuwa Miongoni mwa Watu 50 wa kwanza Kulipia “Ngosha Size” Utapata Hizi BONUSES Hapa Chini BURE Kabisa!</i></strong></p><br />
+            <p><strong><i><span className="text-red-600">BONASI # 1:</span> Utapata BURE Dawa inayoitwa “Cleanser”...(Thamani yake ni Tshs 87,000)</i></strong></p>
+            <div className="flex justify-center">
+            <div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
+                <Image
+                  src="/img/cleanser.jpg"
+                  alt="Ngosha Size Results"
+                  width={500}
+                  height={600}
+                  className="rounded-lg shadow-md hover:brightness-110 transition-all duration-300"
+                />
+              </div>
+              </div>
+              <br />
+              <p>Hii inaenda kusafisha ndani ya mwili kwenye utumbo mwembamba na mpana, Kuondoa sumu na mafuta machafu mwilini…Plus Kuunguza mafuta ya Kitambi na Manyama uzembe</p>
+<br />
+<p><strong><i>
+<span className="text-red-600">BONASI # 2:</span> Utapata BURE Dawa inayoitwa “Super Kongwa”...(Thamani yake ni Tshs 97,000)</i></strong></p>
+<div className="flex justify-center">
+<div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
+                <Image
+                  src="/img/kongwe.jpg"
+                  alt="Ngosha Size Results"
+                  width={500}
+                  height={600}
+                  className="rounded-lg shadow-md hover:brightness-110 transition-all duration-300"
+                />
+              </div>
+              </div>
+              <br />
+              <p>Hii ni Dawa ya kutibu Ngiri, Vidonda vya tumbo, Bawasili, UTI Sugu & Kupata choo kigumu</p>
+<br />
+<p><strong><i><span className="text-red-600">BONASI # 3:</span> Utapata BURE Dawa inayoitwa “Misuli Stabilizer”... (Thamani yake ni Tshs 115,000)</i></strong></p>
+<div className="flex justify-center">
+<div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
+                <Image
+                  src="/img/misuli.jpg"
+                  alt="Ngosha Size Results"
+                  width={500}
+                  height={600}
+                  className="rounded-lg shadow-md hover:brightness-110 transition-all duration-300"
+                />
+              </div>
+              </div>
+              <br />
+              <p>Hii inaenda kuimarisha na kukomaza misuli ya Uume iliyolegea baada ya kuathiriwa na Punyeto….(utakuwa na uwezo wa kupiga show mpaka Dkk 47)</p>
+<br />
+            </div>
+{/* Countdown Timer and CTA */}
+<CountdownCTA
+            timeLeft={timeLeft}
+            ctaText="Ndio Nataka Kupata Ngosha Size Yangu SASAHIVI"
+            ctaLink="https://api.whatsapp.com/send/?phone=255679509126&text=Habari+Khalfan%2C+Nahitaji+Kupata+Ngosha+Size+SASAHIVI+&type=phone_number&app_absent=0"
+          />
+<div className="text-xl/9 text-center mt-12 mb-10">
+<p>Subiri Kwanza…</p>
+<p>Bado Kuna Zaidi…</p>
+<p><strong>…Kama utakuwa Miongoni mwa watu 25 wa kwanza Kulipia Utapata Hizi SPECIAL BONUSES Hapa chini BURE Kabisa:</strong></p>
+<br />
+<p><strong><span className="text-red-600">SPECIAL BONASI # 4:</span> Utapata BURE Dawa inayoitwa “Tamba Plus”... (Thamani yake ni Tshs 89,000)</strong></p>
+<p>Hii ni kwa ajili ya kurudisha Madini na Virutubisho Vilivyopotea Mwilini kwa ajili ya sababu mbali mbali ikiwemo Punyeto!</p>
+<br />
+<p><strong><span className="text-red-600">SPECIAL BONASI # 5:</span> Utapata BURE ratiba ya Mpangilio bora wa vyakula…(Wengine huwa wanalipia Tshs 130,000)</strong></p>
+<p>Magonjwa mengi yanayokutesa kwa sasa chanzo chake kikuu ni chakula na hii ndio Ratiba bora ya chakula iliyovujishwa na Dr. Sebi</p>
+<p>Tamba Plus inaenda Kumaliza Milele changamoto yako ndani ya siku 3 tu hata kama una Miaka 55+ Guaranteed!</p>
+<br />
+<p><strong>Jumlisha na:</strong></p>
+<p><strong><span className="text-red-600">SPECIAL BONASI # 6:</span> Nitakupa BURE Program ya “Ngosha Fit” ….(Gharama yake ni Tshs 350,000)</strong></p>
+<p>Huu ni mjumuisho wa Program zetu zote za Kurefusha na kunenepesha uume pamoja na changamoto zote za Nguvu za Kiume</p>
+<br />
+<p><strong><u>Thamani ya BONUSES Zote ni Tshs 866,000</u></strong></p>
+<p>Hicho ndicho Kila Kitu Unachohitaji ili Kurefusha Uume wako Hadi Inch 5.1 na Kunenepesha Hadi 3.1 Ndani ya Siku 7 Zijazo!</p>
+<p>Kwa Malipo Kidogo Ya:</p>
+<h1 className="text-4xl font-bold text-green-600">“Tshs 245,000 Tu”</h1>
+            <p className="line-through text-gray-500">Tshs 500,000 Tu</p>
+            <br />
+            <div className="flex justify-center">
+<div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
+                <Image
+                  src="/img/ngoshasize.jpg"
+                  alt="Ngosha Size Results"
+                  width={500}
+                  height={600}
+                  className="rounded-lg shadow-md hover:brightness-110 transition-all duration-300"
+                />
+              </div>
+              </div>
+</div>
+{/* Countdown Timer and CTA */}
+<CountdownCTA
+            timeLeft={timeLeft}
+            ctaText="Bofya Hapa SASAHIVI Kupata Ngosha Size Yako"
+            ctaLink="https://api.whatsapp.com/send/?phone=255679509126&text=Habari+Khalfan%2C+Nahitaji+Kupata+Ngosha+Size+SASAHIVI+&type=phone_number&app_absent=0"
+          />
 
+        
+          <div className="text-xl/9 text-center mt-12 mb-10">
+          <p>NA:</p>
+          <p>…Huu Ndio Mjumuisho wa Vitu Vyote Unavyoenda Kuvipata Leo…</p>
+          <br />
+          <p><strong><i>Ngosha Size…(Value=Tshs <span className="text-red-600">500,000</span>)</i></strong></p>
+          <p><strong><i>Cleanser…(Value=Tshs <span className="text-red-600">87,000</span>)</i></strong></p>
+          <p><strong><i>Super Kongwa…(Value=Tshs <span className="text-red-600">97,000</span>)</i></strong></p>
+          <p><strong><i>Misuli stabilizer…(Value=Tshs <span className="text-red-600">115,000</span>)</i></strong></p>
+          <p><strong><i>Tamba Plus…(Value=Tshs <span className="text-red-600">89,000</span>)</i></strong></p>
+          <p><strong><i>Mpangilio wa Ratiba ya Vyakula…(Value=Tshs <span className="text-red-600">130,000</span>)</i></strong></p>
+          <p><strong><i>Ngosha Fit Program…(Value=Tshs <span className="text-red-600">350,000</span>)</i></strong></p>
+          <br />
+          <p><strong>...Jumla ya Thamani Yote ni Tshs 1,671,000</strong></p>
+          <br />
+          <p><strong>…Kwa Malipo Kidogo Ya:</strong></p>
+          <h1 className="text-4xl font-bold text-green-600">“Tshs 245,000 Tu”</h1>
+          <p className="line-through text-gray-500">Tshs 500,000 Tu</p>
+            </div>
+
+          {/* Countdown Timer and CTA */}
+<CountdownCTA
+            timeLeft={timeLeft}
+            ctaText="Bofya Hapa SASAHIVI Kupata Ngosha Size Yako"
+            ctaLink="https://api.whatsapp.com/send/?phone=255679509126&text=Habari+Khalfan%2C+Nahitaji+Kupata+Ngosha+Size+SASAHIVI+&type=phone_number&app_absent=0"
+          />
+
+          <div className="text-xl/9 text-center mt-12 mb-10">
+          <p className="text-2xl"><strong>ONYO!</strong></p>
+          <p>Dawa hii sio kwa ajili YA:</p>
+          <ul>
+            <li>Wanaume Wanaotaka Matokeo Ndani ya Usiku Mmoja</li>
+            <li>    Wanaume ambao tayari Maumbile yao ni makubwa…(Kuanzia Inch 
+
+6.1+)</li>
+<li>Wanaume Wasioamini Kwenye Dawa za Asili</li>
+<li>
+Wanaume ambao hawapo tayari kuwekeza Pesa na Muda</li>
+<li>
+Vijana ambao wapo Chini ya Umri wa Miaka 18</li>
+          </ul>
+          <p>Nimeweza Kurefusha Uume wangu Hadi Inch 5.1…na Kunenepesha Hadi Inch 2.1 Kirahisi sana </p>
+          <br />
+          <p><strong><i>LAKINI...</i></strong></p>
+          <p>Ukweli ni kwamba:</p>
+          <p><strong><i>…Haikuwa Rahisi kama jinsi inavyoonekana…</i></strong></p>
+          <p>Kwani</p>
+          <p>…Uume wangu ulikuwa na urefu wa Inch 2 Tu yaani Kibamia</p>
+          <p>
+          Nilikosa <strong>CONFIDENCE</strong> mbele ya wanawake..</p>
+          <p>
+          …nikawa naogopa hadi kutongoza</p>
+          <p>Hali iliyonipelekea mpaka Kupata:</p>
+          <p><strong><i>…“Msongo wa Mawazo, Upungufu wa Nguvu za Kiume, Kukosa Kujiamini,Kujitenga Pamoja na Kukimbiwa na wanawake”</i></strong></p>
+          <p>Mpaka pale nilipotumia <strong>“Ngosha Size”</strong></p>
+          <p>…Kila kitu kilibadilika ndani ya siku 7 Tu</p>
+          <p>Kwani:</p>
+<p><strong><i>…“Uume wangu Uliongezeka Urefu Kutoka Inch 3 Hadi Inch 6.7…na Unene Uliongezeka Hadi Inch 3.1 Ndani ya Siku 7 Tu Kama jinsi unavyoonekana hapa chini</i></strong></p>
+          </div>
+          <div className="flex justify-center">
+<div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
+                <Image
+                  src="/img/first.jpg"
+                  alt="Ngosha Size Results"
+                  width={500}
+                  height={600}
+                  className="rounded-lg shadow-md hover:brightness-110 transition-all duration-300"
+                />
+              </div>
+              </div>
+
+              <div className="text-xl/9 text-center mt-12 mb-10">
+              <p><strong><i>NA:</i></strong></p>
+              <p>…Sasahivi sina hata Chembe ya HOFU ya Kusalitiwa Milele sababu ya Mashine na Kupiga show za Kibabe!</p>
+              <p>Na jinsi ya Kutumia Dawa hii ni Rahisi sana…</p>
+              <p>Kwani:</p>
+              <p><strong><u>“Unapaka Mara 2 Tu kwa Siku Ndani ya Siku 7 Halafu Kwaheri Kibamia Milele”</u></strong></p>
+              <p>Wewe Unasubiri Nini?...</p>
+              <p>…Wahi Nyakuwa <strong>“Ngosha Size”</strong> Leo Kwa Malipo Kidogo Ya:</p>
+              <h1 className="text-4xl font-bold text-green-600">“Tshs 245,000 Tu”</h1>
+              <p className="line-through text-gray-500">Tshs 500,000 Tu</p>
+              </div>
+
+              <div className="flex justify-center">
+<div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
+                <Image
+                  src="/img/ngoshasize.jpg"
+                  alt="Ngosha Size Results"
+                  width={500}
+                  height={500}
+                  className="rounded-lg shadow-md hover:brightness-110 transition-all duration-300"
+                />
+              </div>
+              </div>
+                     {/* Countdown Timer and CTA */}
+<CountdownCTA
+            timeLeft={timeLeft}
+            ctaText="Bofya Hapa SASAHIVI Kupata Ngosha Size Yako"
+            ctaLink="https://api.whatsapp.com/send/?phone=255679509126&text=Habari+Khalfan%2C+Nahitaji+Kupata+Ngosha+Size+SASAHIVI+&type=phone_number&app_absent=0"
+          />
+
+          <div className="text-xl/9 text-center mt-12 mb-10">
+          <p><strong><i>NA:</i></strong></p>
+          <p>…ili kukuonesha kwamba Hakuna RISK yoyote upande wako Kama Utanunua Dawa Hii Leo…basi nakupa Hii <strong>GUARANTEE</strong> Hapa chini…</p>
+          <br />
+          <p><strong><i>“Ikitokea Uume wako Haujaongezeka Hata Inch MOJA ndani ya siku 7 Baada ya Kutumia Ngosha Size…basi nitakurudishia Pesa Zako Bila kukuuliza swali lolote na Dawa unabaki nayo”</i></strong></p>
+          </div>
+          <br />
+          <div className="flex justify-center">
+<div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
+                <Image
+                  src="/img/satisfaction.png"
+                  alt="Ngosha Size Results"
+                  width={500}
+                  height={500}
+                  className="rounded-lg shadow-md hover:brightness-110 transition-all duration-300"
+                />
+              </div>
+              </div>
+              <div className="text-xl/9 text-center mt-12 mb-10">
+              <p><strong>
+              PS: Inavyoonekana Mpaka sasa una Chaguo Mbili Tu…</strong></p>
+              <p>Aidha ukubali uendelee kudharaulika , Kusalitiwa, Kuachwa na kukosa <span className="text-red-600">KUJIAMINI</span> mbele ya wanawake au uchukue <strong>“Ngosha Size”</strong> Leo na ubadilishe kila Kitu ndani ya siku 7 Tu…</p>
+              <br />
+              <p><strong>…Chaguo ni lako rafiki yangu…</strong></p>
+              <br />
+              <p><i>Ni mimi mwenye Kujali Urijali wako</i></p>
+              <p><i>Ngosha!</i></p>
+              </div>
+
+                                   {/* Countdown Timer and CTA */}
+<CountdownCTA
+            timeLeft={timeLeft}
+            ctaText="Bofya Hapa SASAHIVI Kupata Ngosha Size Yako"
+            ctaLink="https://api.whatsapp.com/send/?phone=255679509126&text=Habari+Khalfan%2C+Nahitaji+Kupata+Ngosha+Size+SASAHIVI+&type=phone_number&app_absent=0"
+          />
+
+          <div className="text-xl/9 text-center mt-12 mb-10">
+          <p>Hey bado upo?...</p>
+          <p>Nina uhakika utakuwa unajiuliza maswali haya ili kuwa na UHAKIKA Zaidi wa Dawa Hii…</p>
+          <p>...Si ndio?...</p>
+          <br />
+          <p><strong>Swali: Je Dawa hii inamaliza Kabisa Tatizo au inatibu kwa muda tu?...</strong></p>
+          <p className="text-red-600">Jibu: Jibu: Inamaliza kabisa Tatizo kwa 100% na unatumia mara moja tu</p>
+          <p><strong>Swali: Je inachukua Muda gani kupata Matokeo?...</strong></p>
+          <p className="text-red-600">Jibu: Matokeo utaanza kuyaona ndani ya siku 7-14 Tu </p>
+          <p><strong>Swali: Je inachukua muda gani kupata Dawa baada ya Kulipia?</strong></p>
+          <p className="text-red-600">Jibu: kama upo Dar Es Saalam unapata dawa yako ndani ya masaa 6 tu baada ya kulipia…na… kama upo mkoani unapata ndani ya masaa 24 kwasababu tunazituma kwa basi </p>
+          <p><strong>Swali: Je Dawa hii ni ya Hospitali au Kienyeji (Mitishamba)?...</strong></p>
+          <p className="text-red-600">Jibu: Dawa ni ya Mitishamba na imepata vibali vyote kutoka Mamlaka ya Tiba Asili na Tiba Mbadala </p>
+          <p><strong>Swali: Je naruhusiwa kushiriki tendo hata nikiwa kwenye dozi au Mpaka nimalize dozi?...</strong></p>
+          <p className="text-red-600">Jibu: Ndio Unaruhusiwa kushiriki tendo hata ukiwa kwenye Dozi </p>
+          <p><strong>Swali: Je ofisi zenu zipo wapi?....</strong></p>
+          <p className="text-red-600">Jibu: Ofisi zetu zipo Kinondoni Mwananyamala soko Jipya la Mbweni </p>
+          </div>
+
+
+                                   {/* Countdown Timer and CTA */}
+<CountdownCTA
+            timeLeft={timeLeft}
+            ctaText="Bofya Hapa SASAHIVI Kupata Ngosha Size Yako"
+            ctaLink="https://api.whatsapp.com/send/?phone=255679509126&text=Habari+Khalfan%2C+Nahitaji+Kupata+Ngosha+Size+SASAHIVI+&type=phone_number&app_absent=0"
+          />
+
+          <div className="text-xl/9 text-center mt-12 mb-10">
+          <p>Bado Huamini kama Dawa Hii Itakusaidia Kupata Size ya MKONGA Unayoitaka?...</p>
+          <p>...basi wasikilize hawa WANAUME Wenzio wanavyosema Hapa chini baada ya kuteswa na VIBAMIA Kwa miaka Mingi...</p>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6">
+            <div className="flex justify-center">
+              <Image
+                src="/img/8.jpeg"
+                alt="Ngosha Size Results"
+                width={300}
+                height={400}
+                className="rounded-lg shadow-md"
+              />
+            </div>
+            <div className="flex justify-center">
+              <Image
+                src="/img/9.jpeg"
+                alt="Ngosha Size Results"
+                width={300}
+                height={400}
+                className="rounded-lg shadow-md"
+              />
+            </div>
+            <div className="flex justify-center">
+              <Image
+                src="/img/10.jpeg"
+                alt="Ngosha Size Results"
+                width={300}
+                height={400}
+                className="rounded-lg shadow-md"
+              />
+            </div>
+            <div className="flex justify-center">
+              <Image
+                src="/img/11.jpeg"
+                alt="Ngosha Size Results"
+                width={300}
+                height={400}
+                className="rounded-lg shadow-md"
+              />
+            </div>
+            <div className="flex justify-center">
+              <Image
+                src="/img/12.jpeg"
+                alt="Ngosha Size Results"
+                width={300}
+                height={400}
+                className="rounded-lg shadow-md"
+              />
+            </div>
+            <div className="flex justify-center">
+              <Image
+                src="/img/13.jpeg"
+                alt="Ngosha Size Results"
+                width={300}
+                height={400}
+                className="rounded-lg shadow-md"
+              />
+            </div>
+          </div>
+
+
+                                   {/* Countdown Timer and CTA */}
+<CountdownCTA
+            timeLeft={timeLeft}
+            ctaText="Bofya Hapa SASAHIVI Kupata Ngosha Size Yako"
+            ctaLink="https://api.whatsapp.com/send/?phone=255679509126&text=Habari+Khalfan%2C+Nahitaji+Kupata+Ngosha+Size+SASAHIVI+&type=phone_number&app_absent=0"
+          />
 
        
 
