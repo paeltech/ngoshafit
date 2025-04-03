@@ -213,7 +213,7 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, <br />Bali Utakuwa Hu
             <div className="flex justify-center">
               <div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
                 <Image
-                  src="/img/ngoshasize.jpg"
+                  src="/img/ngoshasize.jpeg"
                   alt="Ngosha Size Results"
                   width={500}
                   height={500}
@@ -370,7 +370,7 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, <br />Bali Utakuwa Hu
 <p><strong><span className="text-red-600">SPECIAL BONASI # 6:</span> Nitakupa BURE Program ya “Ngosha Fit” ….(Gharama yake ni Tshs 350,000)</strong></p>
 <p>Huu ni mjumuisho wa Program zetu zote za Kurefusha na kunenepesha uume pamoja na changamoto zote za Nguvu za Kiume</p>
 <br />
-<p><strong><u>Thamani ya BONUSES Zote ni Tshs 866,000</u></strong></p>
+<p><strong><u>Thamani ya BONUSES Zote ni Tshs 1,260,000</u></strong></p>
 <p>Hicho ndicho Kila Kitu Unachohitaji ili Kurefusha Uume wako Hadi Inch 5.1 na Kunenepesha Hadi 3.1 Ndani ya Siku 7 Zijazo!</p>
 <p>Kwa Malipo Kidogo Ya:</p>
 <h1 className="text-4xl font-bold text-green-600">“Tshs 245,000 Tu”</h1>
@@ -379,7 +379,7 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, <br />Bali Utakuwa Hu
             <div className="flex justify-center">
 <div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
                 <Image
-                  src="/img/ngoshasize.jpg"
+                  src="/img/ngoshasize.jpeg"
                   alt="Ngosha Size Results"
                   width={500}
                   height={600}
@@ -481,7 +481,7 @@ Vijana ambao wapo Chini ya Umri wa Miaka 18</li>
               <div className="flex justify-center">
 <div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
                 <Image
-                  src="/img/ngoshasize.jpg"
+                  src="/img/ngoshasize.jpeg"
                   alt="Ngosha Size Results"
                   width={500}
                   height={500}
