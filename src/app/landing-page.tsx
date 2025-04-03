@@ -74,7 +74,7 @@ export default function NgoshaFitLanding() {
         {/* Main Content */}
         <main>
           <div className="text-center mb-8">
-            <p className="text-lg md:text-xl mb-4">
+            <p className="text-lg md:text-xl mb-4 italic">
               Jinsi Nilivyotumia{" "}
               <span className="text-red-600 font-bold">"NGOSHA SIZE"</span>{" "}
               Kurefusha & Kunenepesha Uume Kutoka:
@@ -111,7 +111,7 @@ export default function NgoshaFitLanding() {
             <p><i><strong>
             ….“Kitambi, Kurithi, Punyeto, Ngiri, Umri & Upungufu wa Homoni (Testosterone)”</strong></i></p>
             <p><br />Ukweli ni kwamba:</p>
-            <p>Maumbile Madogo <i>(Kibamia)</i> yanaweza kukutolea urijali wako mbele ya wanawake kwa kukosa CONFIDENCE ya kupiga show ya Kibabe itakayomridhisha mwanamke wako Kitandani</p>
+            <p>Maumbile Madogo <i>(Kibamia)</i> yanaweza kukutolea urijali wako mbele ya wanawake kwa kukosa <strong>CONFIDENCE</strong> ya kupiga show ya Kibabe itakayomridhisha mwanamke wako Kitandani</p>
             <p>
             Hali ambayo inaweza kukusababishia Matatizo kama:</p>
             <p><i><strong>
@@ -128,7 +128,7 @@ export default function NgoshaFitLanding() {
             <p>Hembu fikiria Jinsi utakavyokuwa ukiwa na</p>
             <p><strong><i>…Confidence, Mashine Ndefu, Nene na Imara kama Nyati</i></strong></p>
             <p>
-Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, Bali Utakuwa Huru na Mwenye Kujiamini kama Mwanaume rijali</p>
+Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, <br />Bali Utakuwa Huru na Mwenye Kujiamini kama Mwanaume rijali</p>
 <br />
 <h1 className="text-4xl"><strong><i>...Sema Kwaheri...</i></strong></h1>
 <p><strong><i>“Upasuaji, Mazoezi Makali, Mavidonge yenye Kemikali, Supplements za network Marketing, Kibamia Kurudi tena baada ya Muda Mfupi & Kupoteza Pesa bila Tatizo Kuisha”</i></strong></p>
@@ -289,7 +289,7 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, Bali Utakuwa Huru na 
           <div className="text-xl/9 text-center mt-12 mb-10">
             <p>Sio Hivyo Tu</p>
             <p><strong><i>…Kama utakuwa Miongoni mwa Watu 50 wa kwanza Kulipia “Ngosha Size” Utapata Hizi BONUSES Hapa Chini BURE Kabisa!</i></strong></p><br />
-            <p><strong><i><span className="text-red-600">BONASI # 1:</span> Utapata BURE Dawa inayoitwa “Cleanser”...(Thamani yake ni Tshs 87,000)</i></strong></p>
+            <p><strong><i><span className="text-red-600">BONASI # 1:</span> Utapata BURE Dawa inayoitwa “Cleanser”...(Thamani yake ni Tshs 155,000)</i></strong></p>
             <div className="flex justify-center">
             <div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
                 <Image
@@ -305,7 +305,7 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, Bali Utakuwa Huru na 
               <p>Hii inaenda kusafisha ndani ya mwili kwenye utumbo mwembamba na mpana, Kuondoa sumu na mafuta machafu mwilini…Plus Kuunguza mafuta ya Kitambi na Manyama uzembe</p>
 <br />
 <p><strong><i>
-<span className="text-red-600">BONASI # 2:</span> Utapata BURE Dawa inayoitwa “Super Kongwa”...(Thamani yake ni Tshs 97,000)</i></strong></p>
+<span className="text-red-600">BONASI # 2:</span> Utapata BURE Dawa inayoitwa “Super Kongwa”...(Thamani yake ni Tshs 255,000)</i></strong></p>
 <div className="flex justify-center">
 <div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
                 <Image
@@ -320,7 +320,7 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, Bali Utakuwa Huru na 
               <br />
               <p>Hii ni Dawa ya kutibu Ngiri, Vidonda vya tumbo, Bawasili, UTI Sugu & Kupata choo kigumu</p>
 <br />
-<p><strong><i><span className="text-red-600">BONASI # 3:</span> Utapata BURE Dawa inayoitwa “Misuli Stabilizer”... (Thamani yake ni Tshs 115,000)</i></strong></p>
+<p><strong><i><span className="text-red-600">BONASI # 3:</span> Utapata BURE Dawa inayoitwa “Misuli Stabilizer”... (Thamani yake ni Tshs 175,000)</i></strong></p>
 <div className="flex justify-center">
 <div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
                 <Image
@@ -347,7 +347,19 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, Bali Utakuwa Huru na 
 <p>Bado Kuna Zaidi…</p>
 <p><strong>…Kama utakuwa Miongoni mwa watu 25 wa kwanza Kulipia Utapata Hizi SPECIAL BONUSES Hapa chini BURE Kabisa:</strong></p>
 <br />
-<p><strong><span className="text-red-600">SPECIAL BONASI # 4:</span> Utapata BURE Dawa inayoitwa “Tamba Plus”... (Thamani yake ni Tshs 89,000)</strong></p>
+<p><strong><span className="text-red-600">SPECIAL BONASI # 4:</span> Utapata BURE Dawa inayoitwa “Tamba Plus”... (Thamani yake ni Tshs 195,000)</strong></p>
+<div className="flex justify-center">
+<div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
+                <Image
+                  src="/img/tambaplus.jpeg"
+                  alt="Ngosha Size Results"
+                  width={500}
+                  height={600}
+                  className="rounded-lg shadow-md hover:brightness-110 transition-all duration-300"
+                />
+              </div>
+              </div>
+              <br />
 <p>Hii ni kwa ajili ya kurudisha Madini na Virutubisho Vilivyopotea Mwilini kwa ajili ya sababu mbali mbali ikiwemo Punyeto!</p>
 <br />
 <p><strong><span className="text-red-600">SPECIAL BONASI # 5:</span> Utapata BURE ratiba ya Mpangilio bora wa vyakula…(Wengine huwa wanalipia Tshs 130,000)</strong></p>
@@ -389,14 +401,14 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, Bali Utakuwa Huru na 
           <p>…Huu Ndio Mjumuisho wa Vitu Vyote Unavyoenda Kuvipata Leo…</p>
           <br />
           <p><strong><i>Ngosha Size…(Value=Tshs <span className="text-red-600">500,000</span>)</i></strong></p>
-          <p><strong><i>Cleanser…(Value=Tshs <span className="text-red-600">87,000</span>)</i></strong></p>
-          <p><strong><i>Super Kongwa…(Value=Tshs <span className="text-red-600">97,000</span>)</i></strong></p>
-          <p><strong><i>Misuli stabilizer…(Value=Tshs <span className="text-red-600">115,000</span>)</i></strong></p>
-          <p><strong><i>Tamba Plus…(Value=Tshs <span className="text-red-600">89,000</span>)</i></strong></p>
+          <p><strong><i>Cleanser…(Value=Tshs <span className="text-red-600">155,000</span>)</i></strong></p>
+          <p><strong><i>Super Kongwa…(Value=Tshs <span className="text-red-600">255,000</span>)</i></strong></p>
+          <p><strong><i>Misuli stabilizer…(Value=Tshs <span className="text-red-600">175,000</span>)</i></strong></p>
+          <p><strong><i>Tamba Plus…(Value=Tshs <span className="text-red-600">195,000</span>)</i></strong></p>
           <p><strong><i>Mpangilio wa Ratiba ya Vyakula…(Value=Tshs <span className="text-red-600">130,000</span>)</i></strong></p>
           <p><strong><i>Ngosha Fit Program…(Value=Tshs <span className="text-red-600">350,000</span>)</i></strong></p>
           <br />
-          <p><strong>...Jumla ya Thamani Yote ni Tshs 1,671,000</strong></p>
+          <p><strong>...Jumla ya Thamani Yote ni Tshs 1,760,000</strong></p>
           <br />
           <p><strong>…Kwa Malipo Kidogo Ya:</strong></p>
           <h1 className="text-4xl font-bold text-green-600">“Tshs 245,000 Tu”</h1>
