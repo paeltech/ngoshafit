@@ -7,6 +7,7 @@ import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import EditorContent from "@/components/editor/EditorContent";
 import CountdownCTA from "@/components/CountdownCTA";
+import WarningCard from "@/components/WarningCard";
 
 export default function NgoshaFitLanding() {
   // Countdown timer state
@@ -395,7 +396,7 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, <br />Bali Utakuwa Hu
             ctaLink="https://api.whatsapp.com/send/?phone=255679509126&text=Habari+Khalfan%2C+Nahitaji+Kupata+Ngosha+Size+SASAHIVI+&type=phone_number&app_absent=0"
           />
 
-        
+
           <div className="text-xl/9 text-center mt-12 mb-10">
           <p>NA:</p>
           <p>…Huu Ndio Mjumuisho wa Vitu Vyote Unavyoenda Kuvipata Leo…</p>
@@ -423,19 +424,17 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, <br />Bali Utakuwa Hu
           />
 
           <div className="text-xl/9 text-center mt-12 mb-10">
-          <p className="text-2xl"><strong>ONYO!</strong></p>
-          <p>Dawa hii sio kwa ajili YA:</p>
-          <ul>
-            <li>Wanaume Wanaotaka Matokeo Ndani ya Usiku Mmoja</li>
-            <li>    Wanaume ambao tayari Maumbile yao ni makubwa…(Kuanzia Inch 
-
-6.1+)</li>
-<li>Wanaume Wasioamini Kwenye Dawa za Asili</li>
-<li>
-Wanaume ambao hawapo tayari kuwekeza Pesa na Muda</li>
-<li>
-Vijana ambao wapo Chini ya Umri wa Miaka 18</li>
-          </ul>
+          <WarningCard
+            title="ONYO!"
+            description="Dawa hii sio kwa ajili YA:"
+            items={[
+              "Wanaume Wanaotaka Matokeo Ndani ya Usiku Mmoja",
+              "Wanaume ambao tayari Maumbile yao ni makubwa…(Kuanzia Inch 6.1+)",
+              "Wanaume Wasioamini Kwenye Dawa za Asili",
+              "Wanaume ambao hawapo tayari kuwekeza Pesa na Muda",
+              "Vijana ambao wapo Chini ya Umri wa Miaka 18"
+            ]}
+          />
           <p>Nimeweza Kurefusha Uume wangu Hadi Inch 5.1…na Kunenepesha Hadi Inch 2.1 Kirahisi sana </p>
           <br />
           <p><strong><i>LAKINI...</i></strong></p>
@@ -628,7 +627,7 @@ Vijana ambao wapo Chini ya Umri wa Miaka 18</li>
             ctaLink="https://api.whatsapp.com/send/?phone=255679509126&text=Habari+Khalfan%2C+Nahitaji+Kupata+Ngosha+Size+SASAHIVI+&type=phone_number&app_absent=0"
           />
 
-       
+
 
           {/* Content from Editor Section */}
           {/* <div className="mt-8">
