@@ -211,7 +211,7 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, <br />Bali Utakuwa Hu
             <br />
             <h1 className="text-6xl font-bold text-blue-700">"Ngosha Size"</h1>
             <br />
-            <div className="flex justify-center">
+            <div className="flex justify-center mt-10">
               <div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
                 <Image
                   src="/img/ngoshasize.jpeg"
@@ -291,7 +291,7 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, <br />Bali Utakuwa Hu
             <p>Sio Hivyo Tu</p>
             <p><strong><i>…Kama utakuwa Miongoni mwa Watu 50 wa kwanza Kulipia “Ngosha Size” Utapata Hizi BONUSES Hapa Chini BURE Kabisa!</i></strong></p><br />
             <p><strong><i><span className="text-red-600">BONASI # 1:</span> Utapata BURE Dawa inayoitwa “Cleanser”...(Thamani yake ni Tshs 155,000)</i></strong></p>
-            <div className="flex justify-center">
+            <div className="flex justify-center mt-10">
             <div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
                 <Image
                   src="/img/cleanser.jpg"
@@ -307,7 +307,7 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, <br />Bali Utakuwa Hu
 <br />
 <p><strong><i>
 <span className="text-red-600">BONASI # 2:</span> Utapata BURE Dawa inayoitwa “Super Kongwa”...(Thamani yake ni Tshs 255,000)</i></strong></p>
-<div className="flex justify-center">
+<div className="flex justify-center mt-10">
 <div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
                 <Image
                   src="/img/kongwe.jpg"
@@ -322,7 +322,7 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, <br />Bali Utakuwa Hu
               <p>Hii ni Dawa ya kutibu Ngiri, Vidonda vya tumbo, Bawasili, UTI Sugu & Kupata choo kigumu</p>
 <br />
 <p><strong><i><span className="text-red-600">BONASI # 3:</span> Utapata BURE Dawa inayoitwa “Misuli Stabilizer”... (Thamani yake ni Tshs 175,000)</i></strong></p>
-<div className="flex justify-center">
+<div className="flex justify-center mt-10">
 <div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
                 <Image
                   src="/img/misuli.jpg"
@@ -349,7 +349,7 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, <br />Bali Utakuwa Hu
 <p><strong>…Kama utakuwa Miongoni mwa watu 25 wa kwanza Kulipia Utapata Hizi SPECIAL BONUSES Hapa chini BURE Kabisa:</strong></p>
 <br />
 <p><strong><span className="text-red-600">SPECIAL BONASI # 4:</span> Utapata BURE Dawa inayoitwa “Tamba Plus”... (Thamani yake ni Tshs 195,000)</strong></p>
-<div className="flex justify-center">
+<div className="flex justify-center mt-10">
 <div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
                 <Image
                   src="/img/tambaplus.jpeg"
@@ -377,7 +377,7 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, <br />Bali Utakuwa Hu
 <h1 className="text-4xl font-bold text-green-600">“Tshs 245,000 Tu”</h1>
             <p className="line-through text-gray-500">Tshs 500,000 Tu</p>
             <br />
-            <div className="flex justify-center">
+            <div className="flex justify-center mt-10">
 <div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
                 <Image
                   src="/img/ngoshasize.jpeg"
@@ -453,7 +453,7 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, <br />Bali Utakuwa Hu
           <p>Kwani:</p>
 <p><strong><i>…“Uume wangu Uliongezeka Urefu Kutoka Inch 3 Hadi Inch 6.7…na Unene Uliongezeka Hadi Inch 3.1 Ndani ya Siku 7 Tu Kama jinsi unavyoonekana hapa chini</i></strong></p>
           </div>
-          <div className="flex justify-center">
+          <div className="flex justify-center mt-10">
 <div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
                 <Image
                   src="/img/first.jpg"
@@ -477,7 +477,7 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, <br />Bali Utakuwa Hu
               <p className="line-through text-gray-500">Tshs 500,000 Tu</p>
               </div>
 
-              <div className="flex justify-center">
+              <div className="flex justify-center mt-10">
 <div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
                 <Image
                   src="/img/ngoshasize.jpeg"
@@ -502,7 +502,7 @@ Hautakuwa na HOFU ya Kuchekwa wala kupiga show Mbovu tena, <br />Bali Utakuwa Hu
           <p><strong><i>“Ikitokea Uume wako Haujaongezeka Hata Inch MOJA ndani ya siku 7 Baada ya Kutumia Ngosha Size…basi nitakurudishia Pesa Zako Bila kukuuliza swali lolote na Dawa unabaki nayo”</i></strong></p>
           </div>
           <br />
-          <div className="flex justify-center">
+          <div className="flex justify-center mt-10">
 <div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
                 <Image
                   src="/img/satisfaction.png"
