@@ -1053,7 +1053,7 @@ export default function NgoshaFitLanding() {
 
         {/* Footer */}
         <footer className="mt-16 text-center text-gray-600 text-sm">
-          <p>© {new Date().getFullYear()} Ngosha Size. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Ngosha Herbs. All rights reserved.</p>
           <p className="mt-2">
             Matokeo yanaweza kutofautiana kati ya mtu na mtu.
           </p>
