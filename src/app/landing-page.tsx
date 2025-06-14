@@ -367,9 +367,9 @@ export default function NgoshaFitLanding() {
             <p>…Leo Utaipata “Ngosha Size” Kwa Malipo Kidogo Ya:</p>
             <br />
             <h1 className="text-4xl font-bold text-green-600">
-              “Tshs 245,000 Tu”
+              “Tshs 297,500 Tu”
             </h1>
-            <p className="line-through text-gray-500">Tshs 500,000 Tu</p>
+            <p className="line-through text-gray-500">Tshs 595,000 Tu</p>
           </div>
           {/* Countdown Timer and CTA */}
           <CountdownCTA
@@ -609,9 +609,9 @@ export default function NgoshaFitLanding() {
             </p>
             <p>Kwa Malipo Kidogo Ya:</p>
             <h1 className="text-4xl font-bold text-green-600">
-              “Tshs 245,000 Tu”
+              “Tshs 297,500 Tu”
             </h1>
-            <p className="line-through text-gray-500">Tshs 500,000 Tu</p>
+            <p className="line-through text-gray-500">Tshs 595,000 Tu</p>
             <br />
             <div className="flex justify-center mt-10">
               <div className="transform hover:scale-105 transition-transform duration-500 hover:shadow-2xl rounded-lg overflow-hidden">
@@ -701,9 +701,9 @@ export default function NgoshaFitLanding() {
               <strong>…Kwa Malipo Kidogo Ya:</strong>
             </p>
             <h1 className="text-4xl font-bold text-green-600">
-              “Tshs 245,000 Tu”
+              “Tshs 297,500 Tu”
             </h1>
-            <p className="line-through text-gray-500">Tshs 500,000 Tu</p>
+            <p className="line-through text-gray-500">Tshs 595,000 Tu</p>
           </div>
 
           {/* Countdown Timer and CTA */}
@@ -809,9 +809,9 @@ export default function NgoshaFitLanding() {
               Ya:
             </p>
             <h1 className="text-4xl font-bold text-green-600">
-              “Tshs 245,000 Tu”
+              “Tshs 297,500 Tu”
             </h1>
-            <p className="line-through text-gray-500">Tshs 500,000 Tu</p>
+            <p className="line-through text-gray-500">Tshs 595,000 Tu</p>
           </div>
 
           <div className="flex justify-center mt-10">
