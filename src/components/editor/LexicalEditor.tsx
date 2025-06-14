@@ -19,7 +19,11 @@ import ToolbarPlugin from "./ToolbarPlugin";
 import "./styles/editor.css";
 
 // Custom plugin to set initial editor state
-function InitialStatePlugin({ savedEditorState }: { savedEditorState: string }) {
+function InitialStatePlugin({
+  savedEditorState,
+}: {
+  savedEditorState: string;
+}) {
   const [editor] = useLexicalComposerContext();
   const initializedRef = useRef(false);
 
@@ -32,7 +36,7 @@ function InitialStatePlugin({ savedEditorState }: { savedEditorState: string }) 
         editor.setEditorState(editorState);
         initializedRef.current = true;
       } catch (error) {
-        console.error('Error setting initial editor state:', error);
+        console.error("Error setting initial editor state:", error);
       }
     }
   }, [editor, savedEditorState]);
@@ -60,13 +64,13 @@ const nodes = [
   ListItemNode,
   CodeNode,
   CodeHighlightNode,
-  LinkNode
+  LinkNode,
 ];
 
 // Debounce function to limit how often a function is called
 function debounce(func: Function, wait: number) {
   let timeout: NodeJS.Timeout;
-  return function(...args: any[]) {
+  return function (...args: any[]) {
     clearTimeout(timeout);
     timeout = setTimeout(() => func(...args), wait);
   };
@@ -99,7 +103,7 @@ export default function LexicalEditor() {
           await setEditorContent(jsonString);
           lastSavedContentRef.current = jsonString;
         } catch (error) {
-          console.error('Error in debouncedSave:', error);
+          console.error("Error in debouncedSave:", error);
           // Fallback: at least save to localStorage
           localStorage.setItem("editorState", jsonString);
         }
@@ -109,26 +113,32 @@ export default function LexicalEditor() {
   );
 
   // Save editor state to localStorage with debouncing
-  const onChange = useCallback((editorState: any) => {
-    editorState.read(() => {
-      try {
-        const jsonString = JSON.stringify(editorState.toJSON());
-        debouncedSave(jsonString);
-      } catch (error) {
-        console.error('Error saving editor state:', error);
-      }
-    });
-  }, [debouncedSave]);
+  const onChange = useCallback(
+    (editorState: any) => {
+      editorState.read(() => {
+        try {
+          const jsonString = JSON.stringify(editorState.toJSON());
+          debouncedSave(jsonString);
+        } catch (error) {
+          console.error("Error saving editor state:", error);
+        }
+      });
+    },
+    [debouncedSave]
+  );
 
   // Create initialConfig with useMemo to prevent recreation on each render
-  const initialConfig = useMemo(() => ({
-    namespace: "NgoshaFitEditor",
-    theme,
-    onError: (error: Error) => {
-      console.error(error);
-    },
-    nodes,
-  }), []);
+  const initialConfig = useMemo(
+    () => ({
+      namespace: "NgoshaFitEditor",
+      theme,
+      onError: (error: Error) => {
+        console.error(error);
+      },
+      nodes,
+    }),
+    []
+  );
 
   return (
     <LexicalComposer initialConfig={initialConfig}>
