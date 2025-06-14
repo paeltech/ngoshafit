@@ -1047,7 +1047,7 @@ export default function NgoshaFitLanding() {
             </div>
             <Card className="p-6 bg-white shadow-lg rounded-xl">
               <EditorContent />
-            </Card>
+          </Card>
           </div> */}
         </main>
 
